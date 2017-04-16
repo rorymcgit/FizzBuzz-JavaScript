@@ -1,4 +1,4 @@
-# FizzBuzz-JavaScript
+# FizzBuzz in JavaScript
 
 FizzBuzz Rules:
 * If a number is divisible by 3 print "Fizz" instead
